@@ -18,7 +18,7 @@ neuro_mf
 boto3
 mypy-boto3-s3
 botocore
-fastapi 
+fastapi
 uvicorn
 jinja2
 python-multipart
